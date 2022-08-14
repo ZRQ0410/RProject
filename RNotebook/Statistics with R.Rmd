@@ -1,9 +1,11 @@
 ---
 title: "Statistics with R"
-output: 
+output:
   html_notebook:
-    toc_float: true
-    toc: true
+    toc_float: yes
+    toc: yes
+  pdf_document:
+    toc: yes
 ---
 
 ------------------------------------------------------------------------
